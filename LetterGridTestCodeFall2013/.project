@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>LetterGridTestCodeFall2013</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>boggleE.txt</name>
+			<type>1</type>
+			<location>X:/CS Ridout 12AP (ICS4UE)/Assignments/DataFiles2013 Worksheet 2/boggleE.txt</location>
+		</link>
+		<link>
+			<name>boggleF.txt</name>
+			<type>1</type>
+			<location>X:/CS Ridout 12AP (ICS4UE)/Assignments/DataFiles2013 Worksheet 2/boggleF.txt</location>
+		</link>
+		<link>
+			<name>boggleG.txt</name>
+			<type>1</type>
+			<location>X:/CS Ridout 12AP (ICS4UE)/Assignments/DataFiles2013 Worksheet 2/boggleG.txt</location>
+		</link>
+		<link>
+			<name>boggleH.txt</name>
+			<type>1</type>
+			<location>X:/CS Ridout 12AP (ICS4UE)/Assignments/DataFiles2013 Worksheet 2/boggleH.txt</location>
+		</link>
+		<link>
+			<name>wordSearchF.txt</name>
+			<type>1</type>
+			<location>X:/CS Ridout 12AP (ICS4UE)/Assignments/DataFiles2013 Worksheet 2/wordSearchF.txt</location>
+		</link>
+		<link>
+			<name>wordSearchG.txt</name>
+			<type>1</type>
+			<location>X:/CS Ridout 12AP (ICS4UE)/Assignments/DataFiles2013 Worksheet 2/wordSearchG.txt</location>
+		</link>
+		<link>
+			<name>wordSearchH.txt</name>
+			<type>1</type>
+			<location>X:/CS Ridout 12AP (ICS4UE)/Assignments/DataFiles2013 Worksheet 2/wordSearchH.txt</location>
+		</link>
+		<link>
+			<name>wordSearchI.txt</name>
+			<type>1</type>
+			<location>X:/CS Ridout 12AP (ICS4UE)/Assignments/DataFiles2013 Worksheet 2/wordSearchI.txt</location>
+		</link>
+		<link>
+			<name>wordSearchJ.txt</name>
+			<type>1</type>
+			<location>X:/CS Ridout 12AP (ICS4UE)/Assignments/DataFiles2013 Worksheet 2/wordSearchJ.txt</location>
+		</link>
+	</linkedResources>
+</projectDescription>
